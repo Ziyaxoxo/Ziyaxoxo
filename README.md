@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">૮ ˶ᵔ ᵕ ᵔ˶ ა</h1>
 
-<!--
-**Ziyaxoxo/Ziyaxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <strong>Muhammed Faiha</strong> ♡</h1>
+<h3 align="center">C++ Developer | DSA Enthusiast | Building cool things 🐇✨</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ziyaxoxo&label=stalkers%20(aka%20visits)%20👀&color=ff69b4&style=flat" />
+</p>
+
+---
+
+### 🌸 About Me
+
+- 🐰 C++ developer who loves solving problems (667+ on CodeChef)
+- 🐾 Into **DSA, system-level programming & optimization**
+- 🧠 Exploring **concurrency & modern C++ (C++17/20)**
+- ☕ Debugging > socializing (most days)
+
+---
+
+### 🧸 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,postgres,git,tensorflow" />
+</p>
+
+---
+
+### 🐾 Projects
+
+🌿 **EcoHealth Project**  
+→ Environmental health monitoring using Python & data analysis  
+
+🏙️ **Smart City Simulation**  
+→ Built using Next.js + TypeScript for urban system modeling  
+
+🧠 **Skill Sync**  
+→ ML-based skill matching system  
+
+---
+
+### 💼 Experience
+
+- ✨ Project Intern @ MIT Square (2024)  
+- 🤖 AI/ML Intern @ Edunet Foundation (2025)  
+
+---
+
+### 🌷 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/muhammed-faiha-16950a2a8">
+    <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:mdfaiha.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Ziyaxoxo">
+    <img src="https://img.shields.io/badge/GitHub-ffe4e1?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&theme=rose_pine"/>
+</p>
+
+---
+
+<p align="center">
+  <i>૮₍ ˶• ༝ •˶ ₎ა coding… probably</i>
+</p>
