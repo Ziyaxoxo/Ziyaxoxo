@@ -66,13 +66,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&theme=rose_pine"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&hide=makefile&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=d4a5a5&border_color=e2ced2" alt="Top Languages" />
 </p>
 
----
 
 <p align="center">
   <i>૮₍ ˶• ༝ •˶ ₎ა coding… probably</i>
