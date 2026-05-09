@@ -60,26 +60,31 @@
     <img src="https://img.shields.io/badge/GitHub-ffe4e1?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
-
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&theme=transparent&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff9aa2&border_color=e8d7da&ring_color=ffb7c5&hide_border=false"
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff9aa2&border_color=e8d7da&hide_border=false"
-    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziyaxoxo&theme=rose_pine" 
+    width="95%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Ziyaxoxo&theme=rose-pine&hide_border=false&background=faf5f5&ring=d4a5a5&fire=ffb7c5&currStreakLabel=7d6b6b&sideLabels=7d6b6b&currStreakNum=d4a5a5&sideNums=d4a5a5"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaxoxo&theme=rose_pine" 
+    width="32%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ziyaxoxo&theme=rose_pine" 
+    width="32%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ziyaxoxo&theme=rose_pine" 
+    width="32%"
   />
 </p>
 
