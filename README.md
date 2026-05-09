@@ -63,29 +63,27 @@
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
+## 📊 GitHub Activity
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziyaxoxo&theme=rose_pine" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziyaxoxo&theme=rose_pine"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ziyaxoxo&theme=rose_pine" 
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ziyaxoxo&theme=rose_pine"
+    width="49%"
   />
   
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaxoxo&theme=rose_pine" 
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaxoxo&theme=rose_pine"
+    width="49%"
   />
 </p>
 
----
-
-
-  <i>૮₍ ˶• ༝ •˶ ₎ა coding… probably</i>
+<p align="center">
+  <i>૮₍ ˶• ༝ •˶ ₎ა coding... probably</i>
 </p>
