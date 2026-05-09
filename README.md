@@ -72,17 +72,6 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ziyaxoxo&theme=rose_pine"
-    width="49%"
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaxoxo&theme=rose_pine"
-    width="49%"
-  />
-</p>
 
 <p align="center">
   <i>૮₍ ˶• ༝ •˶ ₎ა coding... probably</i>
