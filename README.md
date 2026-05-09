@@ -66,19 +66,25 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/Ziyaxoxo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="GitHub Stats" />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&theme=transparent&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff9aa2&border_color=e8d7da&ring_color=ffb7c5&hide_border=false"
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff9aa2&border_color=e8d7da&hide_border=false"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ziyaxoxo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="Top Languages" />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=Ziyaxoxo&theme=rose-pine&hide_border=false&background=faf5f5&ring=d4a5a5&fire=ffb7c5&currStreakLabel=7d6b6b&sideLabels=7d6b6b&currStreakNum=d4a5a5&sideNums=d4a5a5"
+  />
 </p>
 
-<br>
+---
 
-<p align="center">
+
   <i>૮₍ ˶• ༝ •˶ ₎ა coding… probably</i>
 </p>
