@@ -59,7 +59,8 @@
   <a href="https://github.com/Ziyaxoxo">
     <img src="https://img.shields.io/badge/GitHub-ffe4e1?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-</p>
+</p> 
+
 ---
 
 <h3 align="center">📊 GitHub Activity</h3>
@@ -67,24 +68,19 @@
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziyaxoxo&theme=rose_pine" 
-    width="95%"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaxoxo&theme=rose_pine" 
-    width="32%"
-  />
-  
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ziyaxoxo&theme=rose_pine" 
-    width="32%"
-  />
-  
-  <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ziyaxoxo&theme=rose_pine" 
-    width="32%"
+    width="48%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaxoxo&theme=rose_pine" 
+    width="48%"
   />
 </p>
 
