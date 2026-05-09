@@ -32,14 +32,11 @@
 
 ### 🐾 Projects
 
-🌿 **EcoHealth Project**  
-→ Environmental health monitoring using Python & data analysis  
+🌿 **EcoHealth Project** → Environmental health monitoring using Python & data analysis  
 
-🏙️ **Smart City Simulation**  
-→ Built using Next.js + TypeScript for urban system modeling  
+🏙️ **Smart City Simulation** → Built using Next.js + TypeScript for urban system modeling  
 
-🧠 **Skill Sync**  
-→ ML-based skill matching system  
+🧠 **Skill Sync** → ML-based skill matching system  
 
 ---
 
@@ -66,11 +63,14 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&hide=makefile&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=d4a5a5&border_color=e2ced2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="Ziyaxoxo's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&hide=makefile&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="Top Languages" />
 </p>
 
+<br>
 
 <p align="center">
   <i>૮₍ ˶• ༝ •˶ ₎ა coding… probably</i>
