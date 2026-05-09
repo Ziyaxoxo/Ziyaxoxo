@@ -64,10 +64,17 @@
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="Ziyaxoxo's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&hide=makefile&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="Top Languages" />
+  <a href="https://github.com/Ziyaxoxo">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ziyaxoxo&show_icons=true&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ziyaxoxo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaxoxo&layout=compact&bg_color=faf5f5&title_color=d4a5a5&text_color=7d6b6b&icon_color=ff69b4&border_color=e2ced2" alt="Top Languages" />
+  </a>
 </p>
 
 <br>
