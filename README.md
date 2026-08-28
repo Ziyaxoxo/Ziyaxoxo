@@ -1,18 +1,10 @@
 <h1 align="center">૮ ˶ᵔ ᵕ ᵔ˶ ა</h1>
 
-<h3 align="center">Software Developer | AI/ML Enthusiast | Building cool things ♡</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ziyaxoxo&label=stalkers%20(aka%20visits)%20👀&color=ff69b4&style=flat" />
-</p>
-
----
 
 ### 🌸 About Me
+
+<h3 align="center">Software Developer | AI/ML Enthusiast | Building cool things ♡</h3>
 
 I'm **Faiha**, a CSE student who enjoys building things, solving problems and figuring out how they work.
 
@@ -21,6 +13,17 @@ I'm **Faiha**, a CSE student who enjoys building things, solving problems and fi
 - ⚙️ Into **C++, systems programming, concurrency and optimization**
 - ♡ 900+ problems solved across CodeChef and LeetCode
 - ⭐ CodeChef 2-Star programmer
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ziyaxoxo&label=stalkers%20(aka%20visits)%20👀&color=ff69b4&style=flat" />
+</p>
 
 ---
 
