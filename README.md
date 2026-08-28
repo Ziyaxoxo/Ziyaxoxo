@@ -4,15 +4,17 @@
 
 ### 🌸 About Me
 
-<h3 align="center">Software Developer | AI/ML Enthusiast | Building cool things ♡</h3>
+<h3 align="center">Software Developer | AI/ML Enthusiast </h3>
 
-I'm **Faiha**, a CSE student who enjoys building things, solving problems and figuring out how they work.
+<h4>I like building things and figuring out how they work.♡</h4>
 
-- 🐰 I like building things and occasionally making something that actually works
-- 🧠 Exploring **AI, LLMs, RAG, SLMs and backend systems**
-- ⚙️ Into **C++, systems programming, concurrency and optimization**
-- ♡ 900+ problems solved across CodeChef and LeetCode
-- ⭐ CodeChef 2-Star programmer
+I'm **Faiha**, a CSE student who enjoys messing around with code, building random
+projects and occasionally making something that actually works.
+
+Lately I've been playing around with **AI, LLMs, backend systems and C++**.
+
+I also happen to have solved **900+ problems** across CodeChef and
+LeetCode and I'm currently a **2-Star CodeChef** programmer.
 
 ---
 
