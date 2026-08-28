@@ -16,7 +16,7 @@ I also happen to have solved **900+ problems** across CodeChef and
 LeetCode and I'm currently a **2-Star CodeChef** programmer.
 
 
-<h4>I like building things and figuring out how they work.♡</h4>
+<h4>🐰I like building things and figuring out how they work.</h4>
 ---
 
 
