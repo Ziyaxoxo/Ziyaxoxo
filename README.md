@@ -1,78 +1,69 @@
 <h1 align="center">૮ ˶ᵔ ᵕ ᵔ˶ ა</h1>
 
-<h1 align="center">Hi, I'm <strong>Muhammed Faiha</strong> ♡</h1>
-<h3 align="center">C++ Developer | DSA Enthusiast | Building cool things 🐇✨</h3>
+<h1 align="center">Hi, I'm Faiha ♡</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+  I like building things and figuring out how they work.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ziyaxoxo&label=stalkers%20(aka%20visits)%20👀&color=ff69b4&style=flat" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
 </p>
 
----
-
-### 🌸 About Me
-
-- 🐰 C++ developer who loves solving problems (667+ on CodeChef)
-- 🐾 Into **DSA, system-level programming & optimization**
-- 🧠 Exploring **concurrency & modern C++ (C++17/20)**
-- ☕ Debugging > socializing (most days)
-
----
-
-### 🧸 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,postgres,git,tensorflow" />
+  <img src="https://komarev.com/ghpvc/?username=Ziyaxoxo&label=visitors%20%3B)&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-### 🐾 Projects
+### ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-🌿 **EcoHealth Project** → Environmental health monitoring using Python & data analysis  
+I'm a CSE student who enjoys messing around with code, building random
+projects and occasionally making something that actually works.
 
-🏙️ **Smart City Simulation** → Built using Next.js + TypeScript for urban system modeling  
+Lately I've been playing around with **AI, LLMs, backend systems and C++**.
 
-🧠 **Skill Sync** → ML-based skill matching system  
-
----
-
-### 💼 Experience
-
-- ✨ Project Intern @ MIT Square (2024)  
-- 🤖 AI/ML Intern @ Edunet Foundation (2025)  
+I also happen to have solved **900+ problems** across CodeChef and
+LeetCode and I'm currently a **2-Star CodeChef** programmer.
 
 ---
 
-### 🌷 Connect
+### ૮ • ﻌ • ა Stuff I've made
+
+**AI Requirement-to-Test-Case Generator**  
+An experiment in using RAG and LLMs to turn software requirements into useful test cases.
+
+**Distributed Job Scheduler**  
+Because apparently making one program run another program wasn't complicated enough.
+
+**Multi-Threaded C++ Chat Server**  
+A little C++ server project involving sockets, asynchronous I/O and concurrency.
+
+**NLP Skill Gap Analyzer**  
+A small project for comparing resumes with job descriptions and finding missing skills.
+
+---
+
+### ૮₍ ˶• ༝ •˶ ₎ა Currently
+
+Learning more about **SLMs and LLMs**.
+
+Building stuff.
+
+Breaking stuff.
+
+Fixing stuff.
+
+Repeating the cycle.
+
+---
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammed-faiha-16950a2a8">
-    <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:mdfaiha.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Ziyaxoxo">
-    <img src="https://img.shields.io/badge/GitHub-ffe4e1?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p> 
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ziyaxoxo&theme=rose_pine"
-    width="100%"
-  />
+  <i>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა probably coding</i>
 </p>
 
-
 <p align="center">
-  <i>૮₍ ˶• ༝ •˶ ₎ა coding... probably</i>
+  <a href="https://linkedin.com/in/muhammed-faiha-16950a2a8">LinkedIn</a>
+  ·
+  <a href="mailto:mdfaiha.official@gmail.com">Email</a>
 </p>
